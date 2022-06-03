@@ -1,1 +1,1 @@
-"# zuri's django first task" 
+# zuri's Django: first task 
